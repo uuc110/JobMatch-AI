@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+.icon {
+  @apply text-neutral-700 dark:text-neutral-200 h-5 w-5 flex-shrink-0;
+}
+
+
 @layer base {
   :root {
     --background: 0 0% 100%;
@@ -61,7 +66,7 @@
 
 @layer base {
   * {
-    @apply border-border;
+    /*@apply border-border;*/
   }
   body {
     @apply bg-background text-foreground;
