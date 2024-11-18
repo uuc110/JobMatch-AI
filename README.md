@@ -139,3 +139,5 @@ Here’s a quick overview of the primary collections in the database:
 ## **Contributors**
 - [Sourabh Kushwah](https://github.com/uuc110) - Project Lead
 - [Nikita Parmar](https://github.com/Nikitaparmar04) - Cloud Manager
+- [Pranjal Solanki](https://github.com/Pranjal1713) - Backend Dev and AI Dev
+- [Pushpendra yadav](https://github.com/XYZ) - Backend Dev and AI Dev
